@@ -10,13 +10,11 @@
 - **status:** Botun durumu (`online` = Aktif, `dnd` = Rahatsız Etme, `idle` = Boşta, `invisible` = Görünmez).
 - **surum:** eski/yeni Botun sürümü ==> eski yazarsanız özel durumunda kelimenin geçmesi yeterli örneğin durum kısmınız vsc kişinin özel durumu .gg/vsc de olsa rol verir | yeni = yazdığınız durum ile kişinin özel durumu tam eşleşirse rol verir örneğin vsc yaptınız .gg/vsc ye rol vermez
 
-# PROJE GLITCH DESTEKLEMEZ!
+#### İzinsiz paylaşılması yasaktır. Discord:wraithsdev
 
-### Kurulum Yapmak İçin kurulum.bat Dosyasını Çalıştırmanız Yeterli Olucaktır
-## Botu Başlatmak İçin başlat.bat Dosyasını Çalıştırmanız Yeterli Olucaktır.
-#### İzinsiz paylaşılması yasaktır. DC:wraithsdev
+💬 Destek ve Topluluk
+Herhangi bir sorunla karşılaşırsanız veya yardım almak isterseniz, destek sunucumuza katılabilirsiniz:
+[![Discord Banner](https://api.weblutions.com/discord/invite/vsc/)](https://discord.gg/vsc)
 
-**Hatalar İçin Discord Sunucumuza Gelebilirsiniz**
-[discord.gg/vsc](https://www.discord.gg/vsc)
-
-**Bu proje [MIT Lisansı](https://github.com/hasbutcu/vsc-durum-rol/blob/main/LICENSE) ile lisanslanmıştır.**
+🪪 Lisans
+Bu proje, [Apache-2.0 Lisansı](https://www.apache.org/licenses/LICENSE-2.0) ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına göz atabilirsiniz.
